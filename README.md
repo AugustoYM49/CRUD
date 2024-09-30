@@ -8,3 +8,5 @@ traducao varchar(20),
 disciplina varchar(20),
 contexto_aplicado varchar(1000)
 
+A utilização do banco de dados tem como objetivo a inserção da explicação de algum tópico das matérias de estatística, redes de computadores e estrutura de dados. Assim como as disciplinas vinculadas, o nome do tópico e sua tradução para o inglês.
+
